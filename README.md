@@ -2,7 +2,7 @@
 
 ## JWT Authentication API
 <p align = 'center'>
-    <img src="./screenshots/challenge.gif" width="60%">>
+    <img src="./screenshots/challenge.gif" width="60%">
 </p>
 
 ## About:
