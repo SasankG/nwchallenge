@@ -20,4 +20,4 @@
     - **Node.js**: **Express.js**, **jsonwebtoken**
 
 ## Author
-- Sasank Ganapathiraju
+- Sasank Ganapathiraju,
